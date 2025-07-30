@@ -30,7 +30,7 @@
 
 #### Recursos Recomendados:
 - **Curso**: "Java Programming Masterclass" (Udemy - Tim Buchalka)
-- **Libro**: "Head First Java" - Kathy Sierra
+- **Libro**: Java: A Beginner’s Guide" (9ª edición, 2022) – Herbert Schildt
 - **Práctica**: Codewars, HackerRank (Java track)
 - **IDE**: IntelliJ IDEA Community
 
