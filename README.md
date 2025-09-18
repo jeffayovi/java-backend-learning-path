@@ -1,4 +1,4 @@
-# Plan SMART: De Principiante a Desarrollador Backend Java en 24 Meses
+#  De Principiante a Desarrollador Backend Java en 24 Meses
 
 ## 🎯 Objetivo General
 **Convertirse en desarrollador backend Java con capacidad para crear APIs REST, microservicios y aplicaciones empresariales, preparado para conseguir el primer empleo en el área.**
@@ -9,8 +9,8 @@
 
 ### Meta SMART 1.1: Dominar Lógica de Programación y Java SE
 - **Específico**: Aprender sintaxis Java, estructuras de control, POO básica
-- **Medible**: Resolver 150+ ejercicios en HackerRank/LeetCode (nivel Easy)
-- **Alcanzable**: 2-3 horas diarias de estudio
+- **Medible**: Resolver 121 ejercicios en CodingBat 
+- **Alcanzable**: 4 horas diarias de estudio
 - **Relevante**: Base fundamental para todo desarrollo backend
 - **Tiempo**: Meses 1-3
 
@@ -22,16 +22,24 @@
 - ✅ Herencia, polimorfismo, encapsulamiento
 - ✅ Excepciones básicas
 
-#### Proyecto Práctico 1: **Sistema de Gestión de Biblioteca**
-- Crear clases para Libro, Usuario, Biblioteca
-- Implementar operaciones CRUD en memoria
-- Manejo de excepciones personalizadas
-- **Deadline**: Final del mes 3
+#### Proyecto Práctico 1: **Juego Mad Libs**
+#### Proyecto Práctico 2: **Carrito de Compra**
+#### Proyecto Práctico 3: **Calculadora de Interes compuesto**
+#### Proyecto Práctico 4: **Convertidor de Peso**
+#### Proyecto Práctico 5: **Convertidor de Temperatura**
+#### Proyecto Práctico 6: **Programa Bancario**
+#### Proyecto Práctico 7: **Dice Roller lanzar dado**
+#### Proyecto Práctico 8: **Juego de Preguntas y Repuestas**
+#### Proyecto Práctico 9: **Piedra Papel Tijeras**
+#### Proyecto Práctico 10: **Maquina Tragamonedas**
+#### Proyecto Práctico 11: **Reproductor de Musica**
+#### Proyecto Práctico 12: **Juego de Ahorcado**
+#### Proyecto Práctico 13: **Temporizador de Cuenta regresiva**
+#### Proyecto Práctico 14: **Reloj Despertador**
 
 #### Recursos Recomendados:
-- **Curso**: "Java Programming Masterclass" (Udemy - Tim Buchalka)
-- **Libro**: Java: A Beginner’s Guide" (9ª edición, 2022) – Herbert Schildt
-- **Práctica**: Codewars, HackerRank (Java track)
+- **Curso**: "Bro code" 
+- **Práctica**: CodingBat
 - **IDE**: IntelliJ IDEA Community
 
 ### Meta SMART 1.2: Bases de Datos y SQL
@@ -47,11 +55,9 @@
 - ✅ Consultas SQL (SELECT, JOIN, subconsultas)
 - ✅ Índices y optimización básica
 
-#### Proyecto Práctico 2: **API de Gestión de Empleados**
-- Diseñar BD con tablas relacionadas (Empleados, Departamentos, Proyectos)
-- Implementar CRUD con JDBC
-- Consultas complejas con JOINs
-- **Deadline**: Final del mes 6
+#### Proyecto Práctico 15: **Sistema de Gestión de Ferretería**
+#### Proyecto Práctico 15: **Sistema de Gestión de Biblioteca**
+#### Proyecto Práctico 16: **Sistema de Gestión de Centro Educativo**
 
 ---
 
@@ -72,12 +78,10 @@
 - ✅ JPA/Hibernate para ORM
 - ✅ Patrón DTO y mapeo de objetos
 
-#### Proyecto Práctico 3: **E-commerce Backend**
-- API REST para productos, usuarios, pedidos
-- Autenticación básica
-- Documentación con Swagger
-- Testing con Postman collections
-- **Deadline**: Final del mes 9
+#### Proyecto Práctico 15: **Sistema de Gestión para Compañía de Seguros**
+#### Proyecto Práctico 16: **Sistema de Gestión de Tienda en Línea**
+#### Proyecto Práctico 17: **Sistema de Gestión para Cadena de Restaurantes**
+
 
 ### Meta SMART 2.2: Arquitectura y Patrones
 - **Específico**: Implementar arquitectura en capas y patrones de diseño
@@ -93,7 +97,7 @@
 - ✅ Clean Code principles
 - ✅ Manejo avanzado de excepciones
 
-#### Proyecto Práctico 4: **Sistema de Reservas de Hotel**
+#### Proyecto Práctico 18: **Sistema de Reservas de Hotel**
 - Arquitectura multicapas bien definida
 - Implementación de patrones de diseño
 - Validación robusta de datos
@@ -118,7 +122,7 @@
 - ✅ Balanceador de carga
 - ✅ Message queues (RabbitMQ/Apache Kafka)
 
-#### Proyecto Práctico 5: **Plataforma de Streaming**
+#### Proyecto Práctico 19: **Plataforma de Streaming**
 - Microservicios: User Service, Content Service, Recommendation Service
 - API Gateway como punto de entrada
 - Service Discovery con Eureka
@@ -139,7 +143,7 @@
 - ✅ Tests de integración
 - ✅ TestContainers para BD
 
-#### Proyecto Práctico 6: **Banking API**
+#### Proyecto Práctico 20: **Banking API**
 - Sistema bancario con alta seguridad
 - Autenticación multifactor
 - Tests unitarios e integración completos
@@ -164,7 +168,7 @@
 - ✅ Despliegue en AWS/Azure
 - ✅ Monitoring y observabilidad
 
-#### Proyecto Práctico 7: **Social Media Backend**
+#### Proyecto Práctico 19: **Social Media Backend**
 - Aplicación containerizada
 - Pipeline CI/CD automatizado
 - Despliegue en cloud
@@ -246,12 +250,12 @@
 ## 🎯 Indicadores de Progreso por Mes
 
 ### Meses 1-6: **Fundamentos**
-- [ ] 150+ problemas resueltos en plataformas de coding
-- [ ] 3 proyectos Java SE completados
+- [ ] 121 problemas resueltos en plataformas de coding
+- [ ] 14 proyectos Java SE completados
 - [ ] Dominio básico de SQL y diseño de BD
 
 ### Meses 7-12: **Desarrollo Web**
-- [ ] 5+ APIs REST funcionales
+- [ ] 3 APIs REST funcionales
 - [ ] Dominio de Spring Boot ecosystem
 - [ ] Conocimiento de patrones arquitectónicos
 
@@ -270,7 +274,7 @@
 ## 🚀 Consejos para Acelerar el Aprendizaje
 
 ### Buenas Prácticas Diarias:
-1. **Consistency over Intensity**: 2-4 horas diarias constantes
+1. **Consistency over Intensity**: 4 horas diarias constantes
 2. **Learn by Doing**: 70% práctica, 30% teoría
 3. **Document Everything**: README detallados en todos los proyectos
 4. **Code Review**: Revisar código de proyectos open source
@@ -315,7 +319,5 @@
 2. **Contribuir a open source**: Participar en proyectos de la comunidad
 3. **Especializarse**: Elegir un área específica (fintech, e-commerce, etc.)
 4. **Comenzar búsqueda laboral**: Aplicar a posiciones junior antes del mes 24
-
----
 
 **¡Recuerda: El éxito en programación viene de la práctica constante y la perseverancia. Cada línea de código que escribas te acerca más a tu objetivo!**
